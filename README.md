@@ -84,3 +84,91 @@ https://youtu.be/EcmxOMBsX7A
 
 > 24V DC 8Amps SMPS 1nos. 
 
+
+# Frame Construction
+
+![image](https://user-images.githubusercontent.com/19898602/134300642-e0c9838b-4755-45e0-9bcb-395dab6ae52d.png)
+
+Download the CNC machine dimensions CAD file from below
+
+https://drive.google.com/file/d/14fcUK3AHJ8QV08C6r4krWRHbJU7NJvqe/view?usp=sharing
+
+All the dimension related to machine is mention in cad file its scaled to ratio 1:1 you can directly print is and cut past on plywood for easy cutting of parts.
+
+![image](https://user-images.githubusercontent.com/19898602/134300714-b718149b-c958-47a7-9eda-1fef9ad8c697.png)
+
+
+Here I am cutting a 12mm plywood using jigsaw machine to make the frame of CNC machine.
+I am using wood because it is enough strong for this purpose also it is light weight and easy to cut and making holes.
+
+![image](https://user-images.githubusercontent.com/19898602/134300771-ff94fef9-5f27-41b4-9346-4882ae9526b4.png)
+![image](https://user-images.githubusercontent.com/19898602/134300797-5798dedb-c25a-4201-882b-9fd889966796.png)
+
+
+I have marked the holes location on plywood and making hole using a vertical drill machine I have use 25mm drill bit to make hole for stepper motor.
+
+![image](https://user-images.githubusercontent.com/19898602/134300853-31ac1f08-7ff7-446a-9662-ab20494ac960.png)
+
+After cutting and drilling holes on 12mm plywood I clamp it on right angle clamps to make drill screw on the edges. in this way our basic frame is ready.
+
+![image](https://user-images.githubusercontent.com/19898602/134300904-841aa339-46be-4f5b-aca7-7cc93255f4f9.png)
+
+
+![image](https://user-images.githubusercontent.com/19898602/134300940-7d19ddbf-21df-42a3-81c0-f2ddadbe7dac.png)![image](https://user-images.githubusercontent.com/19898602/134300962-54735c1c-8876-4296-8d8c-9d983bd015a4.png)
+
+
+Here I use 240mm of 8mm smooth rod and 8mm 240mm Lead screw details
+Linear bearing and shaft holder quantity is avail at material required section.
+
+![image](https://user-images.githubusercontent.com/19898602/134300999-da12f097-bcee-48ce-8d59-62855fbd4831.png)
+
+
+Here I installed the Z axis also
+
+![image](https://user-images.githubusercontent.com/19898602/134301054-23591a73-d86a-4919-9198-08dc0cda30ce.png)
+![image](https://user-images.githubusercontent.com/19898602/134301071-9e1fe6f8-4213-41e2-914d-064f332de8ff.png)
+
+This 500W spindle motor this is very silent in operation and powerful at same time, 
+
+this spindle kit came with all necessary components like 52mm spindle clamp ER11 Collet and wide range of collet chuck 1mm to 6mm power supply etc.
+
+
+
+
+
+## Wiring details of CNC engraving machine
+
+![image](https://user-images.githubusercontent.com/19898602/134301174-fc89ef48-c8a6-4df6-8a03-82d25fe3d740.png)
+
+
+## GRBL Firmware
+
+In this Machine I used GRBL firmware
+
+![image](https://user-images.githubusercontent.com/19898602/134301320-4d347b1f-5210-40e4-b54f-c0de5bcac514.png)
+
+
+## 3D CAD CAM Software
+
+I have used Fusion 360 for 3D design and tool path generation
+
+![image](https://user-images.githubusercontent.com/19898602/134301368-df2ed908-5bc6-4da2-967b-78839c7ee451.png)
+
+
+Watch this video to know how to generate Tool path and G-code for this CNC machine in fusion 360
+
+https://youtu.be/t_du4W0qNrw
+
+## G Code sender
+
+![image](https://user-images.githubusercontent.com/19898602/134301433-dcaa0dc6-7de1-4b1d-8928-044a06feff50.png)
+
+
+
+
+![yt5s com-Arduino   TIP122 DC motor control _ 755 DC motor(720p)_1](https://user-images.githubusercontent.com/19898602/134301858-de0ed1d5-e17c-4ed2-b97f-349f0bc58984.gif)
+
+
+
+
+
