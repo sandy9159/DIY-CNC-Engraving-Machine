@@ -140,6 +140,17 @@ this spindle kit came with all necessary components like 52mm spindle clamp ER11
 
 ![image](https://user-images.githubusercontent.com/19898602/134301174-fc89ef48-c8a6-4df6-8a03-82d25fe3d740.png)
 
+I have design circuit and PCB in [easyEDA](https://easyeda.com/) and ordered PCB from [JLCPCB](https://jlcpcb.com/IAT )
+
+This is the link of [PCB editabl file](https://oshwlab.com/sharmaz747/multipurpose-pcb)
+
+If you seriously need quality PCB quickly in your hand then you must have to try [JLCPCB](https://jlcpcb.com/IAT ) PCB manufacturing service.
+They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly.
+If you get yourself registered today at [JLCPCB](https://jlcpcb.com/IAT ) you get 18$ welcome coupon from [JLCPCB](https://jlcpcb.com/IAT ).
+
+
+![image](https://user-images.githubusercontent.com/19898602/133384475-589a56a2-6441-4fab-bfc9-4f1e55c9dd89.png)
+
 
 ## GRBL Firmware
 
