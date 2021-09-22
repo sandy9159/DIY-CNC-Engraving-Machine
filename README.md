@@ -145,12 +145,12 @@ I have design circuit and PCB in [easyEDA](https://easyeda.com/) and ordered PCB
 This is the link of [PCB editabl file](https://oshwlab.com/sharmaz747/multipurpose-pcb)
 
 If you seriously need quality PCB quickly in your hand then you must have to try [JLCPCB](https://jlcpcb.com/IAT ) PCB manufacturing service.
-They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly.
+They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly. they now also have PURPLE colour PCB option also without any extra cost
 If you get yourself registered today at [JLCPCB](https://jlcpcb.com/IAT ) you get 18$ welcome coupon from [JLCPCB](https://jlcpcb.com/IAT ).
 
 
 ![MVI_0001 00_06_45_21 Still003](https://user-images.githubusercontent.com/19898602/133377296-ba24f45e-dcf4-4f97-9aa5-77aaed90175a.jpg)
-![MVI_0001 00_07_21_22 Still004](https://user-images.githubusercontent.com/19898602/133377355-12dca9e1-068f-4cf5-ae58-84663ff57dde.jpg)
+![image](https://user-images.githubusercontent.com/19898602/134336506-1f9b024e-41d9-47e0-82af-bd4c066cc060.png)
 
 
 
